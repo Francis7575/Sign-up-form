@@ -92,10 +92,11 @@ h1 span {
 
 .input_container input {
     width: 100%;
-    padding: .9rem 0;
+    padding: .9rem 5rem .9rem 0;
     text-indent: 22px;
     border-radius: 5px;
     border: 1px solid var(--Grayish-Blue);
+    outline: none;
 }
 
 ::placeholder {
